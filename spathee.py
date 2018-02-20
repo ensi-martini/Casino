@@ -1,4 +1,3 @@
-#Task 2 Spathee
 from easygui import *
 from objects import *
 
