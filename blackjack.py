@@ -1,5 +1,3 @@
-#Task 2 Blackjack
-
 from objects import *
 from easygui import *
 
